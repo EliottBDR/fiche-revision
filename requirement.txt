@@ -1,0 +1,6 @@
+streamlit
+pdfplumber
+groq
+requests
+python-dotenv
+markdown
