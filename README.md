@@ -2,8 +2,7 @@
 
 > Transform any PDF course into a structured study sheet, quiz, or detailed exam correction in seconds.
 
-🔗 **[fiche-revision.streamlit.app](https://fiche-revision.streamlit.app/)**
-![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Python](https://img.shields.io/badge/Python-3.14-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
