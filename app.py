@@ -126,4 +126,4 @@ if uploaded_file is not None:
                 st.caption("💡 Pour convertir en PDF : ouvre le fichier dans ton navigateur → Ctrl+P → Enregistrer en PDF")
 
 st.divider()
-st.caption("v0.7 · Fait avec Groq + Cerebras · Développé par [EliottBDR](https://github.com/EliottBDR)")
+st.caption("v1.0 · Utilise Groq + Cerebras · Développé par [EliottBDR](https://github.com/EliottBDR)")
